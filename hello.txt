@@ -1,1 +1,2 @@
 hello jenkins
+Triggered by Jenkins Poll SCM
